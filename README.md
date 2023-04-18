@@ -8,10 +8,6 @@ O Canal do Front é um canal no YouTube dedicado a ajudar desenvolvedores a apri
 
 Nosso objetivo é fornecer conteúdo de qualidade que ajude a preparar qualquer um a se tornar um ótimo desenvolvedor frontend. Os projetos são completos e desenvolvidos com altíssimo padrão profissional, visando te preparar para o mercado de trabalho e fornecer conhecimentos relevantes e aplicáveis.
 
-## 🔧 Como usar este repositório
-
-Este repositório é a página principal do Canal do Front no Github, aqui você vai encontrar os diversos projetos já desenvolvidos. Sinta-se livre para explorar, clonar e usar qualquer um dos projetos.
-
 ## 🔗 Conecte-se conosco!
 
 Você pode encontrar o Canal do Front nas seguintes plataformas:
